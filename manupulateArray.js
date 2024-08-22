@@ -7,5 +7,4 @@ const person={
 }
 const fruits=['apple','oranges','mangos','lemon'];
 fruits.splice(3,0,'empty String');
-//fruits.
 console.log(fruits);
