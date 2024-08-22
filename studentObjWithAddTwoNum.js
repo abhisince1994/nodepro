@@ -1,7 +1,7 @@
 const student ={
     name:'ram',
     age:21,
-    addTowNum:()=>{
+    addTwoNum:()=>{
         let a=4;
         let b=5;
         let c=a+b;
