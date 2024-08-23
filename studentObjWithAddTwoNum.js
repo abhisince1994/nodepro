@@ -8,4 +8,4 @@ const student ={
         console.log('addition of two numbers',c);
     }
 }
-student.addTowNum();
+student.addTwoNum();
